@@ -70,36 +70,10 @@ install.packages(c(
 ---
 
 ## 👥 Project Team
-
-<table>
-  <tr>
-    <td align="center" valign="top" style="padding: 10px;">
-      <a href="https://github.com/l232550" style="text-decoration: none; color: inherit;">
-        <img src="https://avatars.githubusercontent.com/u/60905341?v=4" width="100" alt="Tooba Nadeem" style="border-radius: 8px;" /><br />
-        <b>Tooba Nadeem</b>
-      </a><br />
-      <small>23L-2550</small>
-    </td>
-
-    <td align="center" valign="top" style="padding: 10px;">
-      <a href="https://github.com/AbdullahHabib" style="text-decoration: none; color: inherit;">
-        <img src="https://avatars.githubusercontent.com/u/44205846?v=4" width="100" alt="Abdullah Habib" style="border-radius: 8px;" /><br />
-        <b>Abdullah Habib</b>
-      </a><br />
-      <small>23F-3061</small>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 10px; text-align: center; font-size: 14px;">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li><b>Section:</b> BS(SE)-4A</li>
-        <li><b>Instructor:</b> <em>Dr. Haris Khurram</em></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
+- Tooba Nadeem (23L-2550)  
+- Abdullah Habib (23F-3061)  
+- Section: BS(SE)-4A  
+- Instructor: Dr. Haris Khurram
 ---
 
 ## 📄 License
