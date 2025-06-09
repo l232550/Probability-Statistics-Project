@@ -70,10 +70,12 @@ install.packages(c(
 ---
 
 ## 👥 Project Team
-- Tooba Nadeem (23L-2550)  
-- Abdullah Habib (23F-3061)  
-- Section: BS(SE)-4A  
-- Instructor: Dr. Haris Khurram
+
+* **[Tooba Nadeem](https://github.com/l232550)** (23L-2550)
+* **[Abdullah Habib](https://github.com/Abdullah2265Habib)** (23F-3061)
+* **Section**: BS(SE)-4A
+* **Instructor**: *Dr. Haris Khurram*
+
 ---
 
 ## 📄 License
