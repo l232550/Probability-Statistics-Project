@@ -70,9 +70,22 @@ install.packages(c(
 ---
 
 ## 👥 Project Team
+<td align="center" valign="top" style="padding: 10px;">
+  <a href="https://github.com/l232550">
+    <img src="https://avatars.githubusercontent.com/u/60905341?v=4" width="100" alt="Tooba Nadeem" /><br />
+    <b>Tooba Nadeem</b>
+  </a><br />
+  <small>23L-2550</small>
+</td>
 
-* **[Tooba Nadeem](https://github.com/l232550)** (23L-2550)
-* **Abdullah Habib** (23F-3061)
+<td align="center" valign="top" style="padding: 10px;">
+  <a href="https://github.com/AbdullahHabib">
+    <img src="https://avatars.githubusercontent.com/u/44205846?v=4" width="100" alt="Abdullah Habib" /><br />
+    <b>Abdullah Habib</b>
+  </a><br />
+  <small>23F-3061</small>
+</td>
+
 * **Section**: BS(SE)-4A
 * **Instructor**: *Dr. Haris Khurram*
 
