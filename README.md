@@ -15,10 +15,10 @@ Developed as part of the **MT2005 Probability and Statistics** course, this tool
 
 ## 🎥 Demo
 
-Watch a quick walkthrough of the dashboard in action:
-[📂 Click here to watch the demo video](demo/demo.mp4)
+Watch a quick walkthrough of the dashboard in action:  
+[📂 Click here to watch the demo video](demo.mp4)
 
-> The video file is included in this repository under the `demo/` folder. It may open in a new tab or download depending on your browser.
+> The video file is included in this repository and located in the root directory. It may open in a new tab or download depending on your browser.
 
 ---
 
